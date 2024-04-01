@@ -17,3 +17,8 @@ Practicum Prove
 
 Answer :
     In practicum 2, what happens is that the "Order" button is added, but we can define this by importing 2 components. but need to use "{componet-name}". And we can also define the contents of the "Button-2" component in "page.tsx" but by defining the variables "Message Contents" and "Button Name" first.
+
+## Prakticum - 3
+|![Screenshot](assets-report/04-jawaban-soal3-a.PNG)
+|![Screenshot](assets-report/04-jawaban-soal3-b.PNG)
+|![Screenshot](assets-report/04-jawaban-soal3-c.PNG)
