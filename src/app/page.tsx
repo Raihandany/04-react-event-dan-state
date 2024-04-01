@@ -1,5 +1,6 @@
 "use client";
-import Tombol_1 from "@/component/button";
+//import Tombol_1 from "@/component/button";
+import Tombol_1, {Tombol_2} from "@/component/button2";
 
 export default function Home() {
   return(
@@ -8,7 +9,7 @@ export default function Home() {
         <h2>Kuis Kota</h2>
         <Tombol_1/>
         <hr/>
-        {/* <Tombol_2 isiPesan="Ini Pesanku" namaTombol="Pesan" /> */}
+        <Tombol_2  isiPesan="Ini Pesanku" namaTombol="Pesan" />
       </div>
     </>
   );
