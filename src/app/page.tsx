@@ -2,6 +2,9 @@
 //import Tombol_1 from "@/component/button";
 //import Tombol_1, {Tombol_2} from "@/component/button2";
 import Tombol_1, {Tombol_2, Tombol_3} from "@/component/button3";
+import Gallery from "@/component/gallery";
+import { sculptureList } from "@/data/article";
+import { useState } from "react";
 
 
 export default function Home() {
@@ -19,6 +22,8 @@ export default function Home() {
           <Tombol_3 isiPesan="Child Element : Tombol-1" namaTombol="Tombol-1"/>
           <Tombol_3 isiPesan="Child Element : Tombol-2" namaTombol="Tombol-2"/>
       </div>
+      <br></br>
+      <Gallery/>
     </>
   );
 }
