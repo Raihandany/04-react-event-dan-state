@@ -38,3 +38,14 @@ because the function of handleClick() is called whenever the button is clicked. 
 The solved code will be like this:
 |![Screenshot](assets-report/04-jawaban-soal4-solved1.PNG)
 |![Screenshot](assets-report/04-jawaban-soal4-solved2.PNG)
+
+## Practicum - 5
+|![Screenshot](assets-report/04-jawaban-soal5-a.PNG)
+|![Screenshot](assets-report/04-jawaban-soal5-b.PNG)
+|![Screenshot](assets-report/04-jawaban-soal5-c.PNG)
+|![Screenshot](assets-report/04-jawaban-soal5-d.PNG)
+Answer : In Form_2 function the concept is inputing the firstname and the lastname to make the fullname and because of it we need to input first all of them. And in From function it have concept that it need to input the correct input so that will show 'Yay... Jawaban Benar!' 
+
+In terms of development environment, having to recall the handler in so many places may cause the developer to forget to update/apply it, and thus will cause some bugs that will be tedious to resolve. It also requires more time and resources to compute said handler compared to using the constant variable.
+
+

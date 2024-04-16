@@ -3,8 +3,8 @@
 //import Tombol_1, {Tombol_2} from "@/component/button2";
 import Tombol_1, {Tombol_2, Tombol_3} from "@/component/button3";
 import Gallery from "@/component/gallery";
-import { sculptureList } from "@/data/article";
-import { useState } from "react";
+import Form, { Form_2 } from "@/component/form";
+
 
 
 export default function Home() {
@@ -24,6 +24,10 @@ export default function Home() {
       </div>
       <br></br>
       <Gallery/>
+      <br></br>
+      <Form />
+      <br></br>
+      <Form_2/>
     </>
   );
 }
